@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konsoluyg", "Konsoluyg\Konsoluyg.csproj", "{B4731CC4-9946-4E44-BA17-AD97244470C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "Konsoluyg\ConsoleApp.csproj", "{B4731CC4-9946-4E44-BA17-AD97244470C1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{5C10655C-E630-49D4-AB93-7C69FDC7B862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Donguler\Loops.csproj", "{5C10655C-E630-49D4-AB93-7C69FDC7B862}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classintro", "Classintro\Classintro.csproj", "{794A7FBD-29B2-4934-B0E9-AB2B9F04C8BB}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{63A00157-26A1-41EC-BB34-8F7FE3BFCAC7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{AF88E947-7C02-4854-B182-C049C40DC5BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP#1", "OOP#1\OOP#1.csproj", "{E1655F2D-5CBC-479C-8997-FE9E3AC57285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{2B060771-26E0-42A5-BF8F-38D730C44634}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{AF88E947-7C02-4854-B182-C049C40DC5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF88E947-7C02-4854-B182-C049C40DC5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF88E947-7C02-4854-B182-C049C40DC5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1655F2D-5CBC-479C-8997-FE9E3AC57285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1655F2D-5CBC-479C-8997-FE9E3AC57285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1655F2D-5CBC-479C-8997-FE9E3AC57285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1655F2D-5CBC-479C-8997-FE9E3AC57285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B060771-26E0-42A5-BF8F-38D730C44634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B060771-26E0-42A5-BF8F-38D730C44634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B060771-26E0-42A5-BF8F-38D730C44634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B060771-26E0-42A5-BF8F-38D730C44634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
